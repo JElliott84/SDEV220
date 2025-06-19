@@ -1,6 +1,6 @@
 #Jason Elliott
 #GPADetermination
-#This app should allow the user to input whether or not their GPA is on the Deans List or Honor Roll
+#This app should allow the user to input whether or not their GPA is on the Deans List or Honor Roll. Variables ask for the student last name first to verify the kill code, then will ask for First name and GPA. 
 
 student_lastname = input("What is your last name? Enter ZZZ to stop")
 
